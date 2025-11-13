@@ -16,4 +16,4 @@ Me apasiona la programación y aprender nuevas tecnologías.
 * **Idiomas:** Español, Inglés, Catalán
 
 ---
-📫 **Contacto:** [Tu Email Aquí] | [Tu LinkedIn Aquí]
+📫 **Contacto:** [mohammed.elouahabi.7e9@itb.cat]
