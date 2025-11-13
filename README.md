@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Mohamed Reda 👋
+Estudiante de desarrollo de software en el **Barcelona Institute of Technology**.
+Me apasiona la programación y aprender nuevas tecnologías.
 
-<!--
-**mohammedelouahabi7e9-a11y/mohammedelouahabi7e9-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en proyectos de clase y personales.
+- 🌱 Estoy aprendiendo **Java, Python y desarrollo web**.
+- 👯 Busco colaborar en proyectos de código abierto.
+- ⚡ Dato curioso: Me gusta resolver problemas lógicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Devloper Web
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...My Hobbys
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Lenguajes y Herramientas
+* **Lenguajes:** HTML, CSS, JavaScript, Python
+* **Herramientas:** Git, GitHub, VS Code, Linux
+* **Idiomas:** Español, Inglés, Catalán
+
+---
+📫 **Contacto:** [Tu Email Aquí] | [Tu LinkedIn Aquí]
